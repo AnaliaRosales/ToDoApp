@@ -5,6 +5,8 @@
   justify-content: center;
   align-items: center;
   margin-top: 24px;
+  margin-left: 5%;
+  margin-right: 5%;
   box-shadow: 0px 5px 50px rgba(32, 35, 41, 0.15);
 }
 
@@ -36,14 +38,13 @@
   left: 12px;
 }
 .IconCheckActive {
-  color: #4caf50;
+  color: #6BBAA7;
 }
 
 .IconDelete {
   position: absolute;
-  top: -24px;
   right: 0;
 }
 .IconDelete:hover {
-  color: red;
+  color: #E14658;
 }

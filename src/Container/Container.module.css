@@ -1,0 +1,15 @@
+.container{
+  background: #F2F4F5;
+  border-radius: 15px;
+  min-width: 100px;
+  width: 600px;
+  min-height: 400px;
+  height: max-content;
+}
+
+.p{
+  justify-content: center;
+  display: flex;
+  height: 20%;
+  margin: 10%;
+}

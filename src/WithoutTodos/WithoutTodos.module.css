@@ -1,0 +1,19 @@
+.h1{
+  display: flex;
+  margin: 50px;
+  justify-content: center;
+}
+
+.p{
+  display: flex;
+  margin: 50px;
+  justify-content: center;
+}
+
+.gral{
+  background: #F2F4F5;
+  border-radius: 15px;
+  height: 50%;
+  width: 50%;
+  margin: 5px, 5px;
+}
